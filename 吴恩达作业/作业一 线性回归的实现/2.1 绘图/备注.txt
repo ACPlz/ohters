@@ -1,0 +1,3 @@
+1、第一次用python，调用了matplotlib和pandas两个库
+2、注意用pandas读取csv中的文件的时候head设置为0用的是第一行作为表头，可以设置为
+none，然后用name来命名表头。
